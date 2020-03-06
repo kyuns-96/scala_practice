@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="372cec79-803a-4490-afce-03fe0b0f2131" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\NEXELL\Desktop\scala\scala_practice\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yjs0Wyqbdoz3fm7ds08vyBmDm9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="372cec79-803a-4490-afce-03fe0b0f2131" name="Default Changelist" comment="" />
+      <created>1583467114365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583467114365</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="401" key="FileChooserDialogImpl" timestamp="1583467477754">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1010" y="401" key="FileChooserDialogImpl/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1583467477754" />
+    <state x="672" y="277" key="SettingsEditor" timestamp="1583467382344">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="672" y="277" key="SettingsEditor/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1583467382344" />
+    <state x="908" y="502" key="com.intellij.ide.util.TipDialog" timestamp="1583467404756">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="908" y="502" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1583467404756" />
+    <state x="528" y="423" key="new project wizard" timestamp="1583467481419">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="528" y="423" key="new project wizard/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1583467481419" />
+  </component>
+</project>
